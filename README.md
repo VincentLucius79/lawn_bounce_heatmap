@@ -57,8 +57,8 @@ Rows recorded before the GPS gets a fix show up as `0,0`. The script drops them 
 ## Step 2: Install Python dependencies
 
 ```bash
-git clone https://github.com/VincentLucius79/lawn-bounce-heatmap.git
-cd lawn-bounce-heatmap
+git clone https://github.com/VincentLucius79/lawn_bounce_heatmap.git
+cd lawn_bounce_heatmap
 python -m venv .venv
 ```
 
