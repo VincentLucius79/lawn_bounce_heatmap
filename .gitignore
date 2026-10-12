@@ -1,0 +1,11 @@
+# Your recordings contain the GPS location of your property. Keep them out of the repo.
+*.csv
+!sample_data/*.csv
+
+# Generated maps contain those same coordinates
+*.html
+
+__pycache__/
+.venv/
+venv/
+.ipynb_checkpoints/
