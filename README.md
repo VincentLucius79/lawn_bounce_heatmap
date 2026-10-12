@@ -1,6 +1,6 @@
 # Lawn Bounce Heatmap
 
-![alt text](image-1.png)
+![Bounce heatmap of my lawn](image-1.png)
 
 **Find the bumps in your lawn using the phone in your pocket.**
 
@@ -99,8 +99,8 @@ python lawn_bounce_heatmap.py my_mowing.csv -o my_lawn.html --hotspots worst_spo
 You'll see a short summary like this:
 
 ```
-Rows used:            366,670 (plotted 3,000)
-Typical bounce:       1.06 g (median)
+Rows used:            373,579 (plotted 3,000)
+Red-dot threshold:    1.76 g  (150 dots)
 Hardest hit:          4.63 g
 Red-dot threshold:    1.77 g  (150 dots)
 Saved map:            my_lawn.html
